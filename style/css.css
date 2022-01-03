@@ -1,0 +1,17 @@
+section {
+    height: 100vh;
+    border-radius: 8px;
+    margin: 5px auto;
+}
+
+span {
+    font-size: 20px;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
